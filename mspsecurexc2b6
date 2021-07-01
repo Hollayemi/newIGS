@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+	<html lang="en-US">
+	
+<!-- Mirrored from igsosana.org/mspsecurex?action=lostpassword by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Jun 2021 15:55:38 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head> <script type="text/javascript">if(!gform){document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0});var gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),null==t&&(t=10),gform.hooks[o][n].push({tag:i,callable:r,priority:t})},doHook:function(o,n,r){if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[o][n]){var t,i=gform.hooks[o][n];i.sort(function(o,n){return o.priority-n.priority});for(var e=0;e<i.length;e++)"function"!=typeof(t=i[e].callable)&&(t=window[t]),"action"==o?t.apply(null,r):r[0]=t.apply(null,r)}if("filter"==o)return r[0]},removeHook:function(o,n,r,t){if(null!=gform.hooks[o][n])for(var i=gform.hooks[o][n],e=i.length-1;0<=e;e--)null!=t&&t!=i[e].tag||null!=r&&r!=i[e].priority||i.splice(e,1)}}}</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Lost Password &lsaquo; IGSOSANA &#8212; WordPress</title>
+	
+<style type='text/css'> body, #wp-auth-check-wrap #wp-auth-check{background-color: rgba(209,174,79,1.0)!important /*#d1ae4f*/; } 
+ .login form{background-color: transparent!important} 
+body.login #backtoblog a, body.login #nav a, body.login a{color:rgba(255,255,255,1) /*#ffffff*/;} body.login #backtoblog a:hover, body.login #nav a:hover, body.login a:hover {color:rgba(255,255,255,1) /*#ffffff*/;} body.login #backtoblog a:active, body.login #nav a:active, body.login a:active {color:rgba(255,255,255,1) /*#ffffff*/;} 
+
+ .login, .login form label, .login form, .login .message{color:rgba(255,255,255,1) /*#ffffff*/;} 
+ .login.wp-core-ui .button-primary{background-color:rgba(249,67,17,1) /*#f94311*/;} 
+ .login.wp-core-ui .button-primary:hover, .login.wp-core-ui .button-primary:focus{background-color:rgba(247,103,65,1) /*#f76741*/;} 
+ .login.wp-core-ui .button-primary{color:rgba(255,255,255,1) /*#ffffff*/;} 
+ .login form .input, .login form input[type=checkbox], .login input[type=text]{background-color:rgba(255,255,255,0.5)!important /*#ffffff*/;} 
+ .login form .input:hover, .login form input[type=checkbox]:hover, .login input[type=text]:hover, .login form .input:focus, .login form input[type=checkbox]:focus, .login input[type=text]:focus{background-color:rgba(255,255,255,0.8)!important /*#ffffff*/;} 
+ .login form .input, .login form input[type=checkbox], .login input[type=text]{color:rgba(249,71,22,1) /*#f94716*/;} 
+ .login.wp-core-ui input[type=checkbox]:checked:before{color:rgba(249,71,22,1) /*#f94716*/;} 
+ input[type=checkbox], input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=radio], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea{background-color:rgba(255,255,255,0.5) /*#ffffff*/;} 
+ input[type=checkbox], input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=radio], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea{color:rgba(249,71,22,1) /*#f94716*/;} 
+ .login #login_error, .login .message{background-color:rgba(255,255,255,0.5)!important /*#ffffff*/;} 
+  .login .message,  .login .message a, .login #login_error, .login #login_error a{color:rgba(249,71,22,1) /*#f94716*/;} 
+.login h1 a { background-image: url("wp-content/uploads/2018/06/m-Admin-logo-login.png") !important;}</style>
+<style type='text/css' id='ultra-login-extra-css'> #backtoblog { display:block !important; }  #nav { display:block !important; } </style><style type='text/css' id='ultra-custom-login-css'></style><meta name='robots' content='max-image-preview:large, noindex, noarchive' />
+<link rel='dns-prefetch' href='http://www.google.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.min9d52.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='icwp-wpsf-shield-loginbot-js-extra'>
+/* <![CDATA[ */
+var icwp_wpsf_vars_lpantibot = {"form_selectors":"","uniq":"60d9f0cd1c58e","cbname":"icwp-wpsf-5b31d284429fe","strings":{"label":"I'm a human.","alert":"Please check the box to show us you're a human.","loading":"Loading"},"flags":{"gasp":true,"captcha":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/wp-simple-firewall/resources/js/shield/loginbot82ca.js?ver=11.3.0&amp;mtime=1623061389' id='icwp-wpsf-shield-loginbot-js'></script>
+<link rel='stylesheet' id='dashicons-css'  href='wp-includes/css/dashicons.min9f31.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='wp-includes/css/buttons.min9f31.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='wp-admin/css/forms.min9f31.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='wp-admin/css/l10n.min9f31.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='wp-admin/css/login.min9f31.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ultra-login-css'  href='wp-content/plugins/ultra-admin/css40/ultra-login.min9f31.css?ver=5.7.2' type='text/css' media='all' />
+	<meta name='referrer' content='strict-origin-when-cross-origin' />
+		<meta name="viewport" content="width=device-width" />
+	<link rel="icon" href="wp-content/uploads/2018/12/cropped-IGSOSANA-site-icon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2018/12/cropped-IGSOSANA-site-icon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="wp-content/uploads/2018/12/cropped-IGSOSANA-site-icon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://igsosana.org/wp-content/uploads/2018/12/cropped-IGSOSANA-site-icon-270x270.jpg" />
+	</head>
+	<body class="login no-js login-action- wp-core-ui  locale-en-us">
+	<script type="text/javascript">
+		document.body.className = document.body.className.replace('no-js','js');
+	</script>
+		<div id="login">
+		<h1><a href="https://wordpress.org/">Login Page</a></h1>
+	<p class="message">Please enter your username or email address. You will receive an email message with instructions on how to reset your password.</p>
+
+		<form name="lostpasswordform" id="lostpasswordform" action="https://igsosana.org/mspsecurex?action=lostpassword" method="post">
+			<p>
+				<label for="user_login">Username or Email Address</label>
+				<input type="text" name="user_login" id="user_login" class="input" value="" size="20" autocapitalize="off" />
+			</p>
+			
+<style>
+	.shield_gasp_placeholder {
+		clear: both;
+		border: 1px solid #dddddd;
+		padding: 6px 8px 4px 10px;
+		margin: 0 0 12px !important;
+		border-radius: 2px;
+		background-color: #f9f9f9;
+	}
+	.shield_gasp_placeholder input {
+		margin-right: 5px;
+	}
+	.shield_gasp_placeholder label {
+		display: block;
+	}
+</style>
+<p class="icwpImHuman_ shield_gasp_placeholder">Loading &hellip;</p>
+<style>@media screen {#rc-imageselect, .icwpg-recaptcha iframe {transform:scale(0.895);-webkit-transform:scale(0.895);transform-origin:0 0;-webkit-transform-origin:0 0;}</style><div class="icwpg-recaptcha"></div>			<input type="hidden" name="redirect_to" value="" />
+			<p class="submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Get New Password" />
+			</p>
+		</form>
+
+		<p id="nav">
+			<a href="mspsecurex">Log in</a>
+					</p>
+				<p id="backtoblog">
+			<a href="index.html">&larr; Go to IGSOSANA</a>		</p>
+			</div>
+			<script type="text/javascript">
+		try{document.getElementById('user_login').focus();}catch(e){}
+		if(typeof wpOnload=='function')wpOnload();
+		</script>
+		<script type="text/javascript">
+
+	var iCWP_WPSF_Recaptcha = new function () {
+
+		var bInvisible = false;
+
+		this.setupForm = function ( oForm ) {
+
+			var recaptchaContainer = oForm.querySelector( '.icwpg-recaptcha' );
+
+			if ( recaptchaContainer !== null ) {
+
+				var recaptchaContainerSpec = grecaptcha.render(
+					recaptchaContainer,
+					{
+						'sitekey': '6LelLikTAAAAAKMK-U4xN7J-yttN_X6hK-8LY54_',
+						'size': '',
+						'theme': 'light',
+						'badge': 'bottomright',
+						'callback': function ( reCaptchaToken ) {
+													},
+						'expired-callback': function () {
+							grecaptcha.reset( recaptchaContainerSpec );
+						}
+					}
+				);
+
+							}
+		};
+
+		this.initialise = function () {
+			if ( grecaptcha !== undefined ) {
+				for ( var i = 0; i < document.forms.length; i++ ) {
+					this.setupForm( document.forms[ i ] );
+				}
+				/**
+				 * For some crazy reason invisible recaptcha badge attaches to div with this class.
+				 * Fortunately removing the class at this stage doesn't interrupt normal behaviour.
+				 */
+				if ( bInvisible ) {
+					document.querySelector( 'form' ).classList.remove( 'shake' );
+				}
+			}
+		};
+	}();
+
+	var onLoadIcwpRecaptchaCallback = function () {
+		iCWP_WPSF_Recaptcha.initialise();
+	};
+</script><script type='text/javascript' async="async" defer="defer" src='../www.google.com/recaptcha/apidcc9.js?hl=en-US&amp;onload=onLoadIcwpRecaptchaCallback&amp;render=explicit&amp;ver=5.7.2' id='icwp-wpsf-grecaptcha-js'></script>
+	<div class="clear"></div>
+	</body>
+	
+<!-- Mirrored from igsosana.org/mspsecurex?action=lostpassword by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Jun 2021 15:55:38 GMT -->
+</html>
+	

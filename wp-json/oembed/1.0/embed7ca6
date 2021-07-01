@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<oembed><code>shield_block_anon_restapi</code><message>Anonymous access to the WordPress Rest API has been restricted by Shield Security.</message><data><status>401</status></data></oembed>
